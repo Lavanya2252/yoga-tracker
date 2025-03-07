@@ -9,6 +9,9 @@ function App() {
         <p>
           Welcome to my Yoga Tracker!
         </p>
+        <p>
+          Happy Learning!!
+        </p>
       </header>
     </div>
   );
